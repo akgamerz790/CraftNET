@@ -1,0 +1,2 @@
+# CraftNET
+ Minecraft Bot Client.
